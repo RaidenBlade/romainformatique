@@ -28,7 +28,7 @@ export default function MentionsLegalesPage() {
             Numéro d’entreprise (BCE) : <strong>1034.486.885</strong>
           </p>
           <p>
-            Email de contact : <strong>contact@romainformatique.be</strong>
+            Email de contact : <strong>informatiqueroma@gmail.com</strong>
           </p>
         </div>
 
@@ -72,7 +72,7 @@ export default function MentionsLegalesPage() {
           <p>
             Vous pouvez demander l’accès, la modification ou la suppression de
             vos données en envoyant un email à :
-            <strong> contact@romainformatique.be</strong>.
+            <strong> informatiqueroma@gmail.com</strong>.
           </p>
         </div>
 
