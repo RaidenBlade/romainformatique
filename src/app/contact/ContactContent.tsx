@@ -14,10 +14,10 @@ export default function ContactContent() {
 
     emailjs
       .sendForm(
-        "TON_SERVICE_ID",   // ← à remplacer
-        "TON_TEMPLATE_ID",  // ← à remplacer
+        "service_cheu7lr",   // ← à remplacer
+        "template_282pbyc",  // ← à remplacer
         form,
-        "TA_PUBLIC_KEY"     // ← à remplacer
+        "IKx65K85h2RMwgkY1"     // ← à remplacer
       )
       .then(
         () => {
