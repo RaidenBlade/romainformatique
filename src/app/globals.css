@@ -92,3 +92,14 @@ html {
 }
 
 
+
+body {
+  background: #ffffff;
+  color: #0f172a;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: #2563eb;
+  color: white;
+}

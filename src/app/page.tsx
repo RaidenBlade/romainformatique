@@ -1,7 +1,7 @@
 import Hero from "@/components/Hero";
 import Services from "@/components/Services";
-import WhyUs from "./components/WhyUs";
-import Testimonials from "./components/Testimonials";
+import WhyUs from "../components/WhyUs";
+import Testimonials from "../components/Testimonials";
 import Contact from "@/components/Contact";
 
 
